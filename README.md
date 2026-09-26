@@ -87,4 +87,19 @@ R:Feminino: 12.765.677 e Masculino: 17.001.602.
 
 <img width="1516" height="239" alt="Capturar" src="https://github.com/user-attachments/assets/b6ae82ef-00bb-4269-ad44-3ef2567451bc" />
 
+_______________________________________________________________________________________________________________________________________________________________________________________________________________
+
+                              *BANCO DE DADOS-ANTT-Empreesas Multimodais (cargas)*
+
+      desenvolvimento no PowerBI
+      
+*Pergunta*
+
+A)Quantas otm existem em cada cidade?
+
+B)Quantas empresas aderiram ao decreto?
+
+<img width="1127" height="627" alt="Capturar" src="https://github.com/user-attachments/assets/cbc8ae81-4056-40d4-80d6-d2a36e0296fc" />
+
+
 
