@@ -101,5 +101,49 @@ B)Quantas empresas aderiram ao decreto?
 
 <img width="1127" height="627" alt="Capturar" src="https://github.com/user-attachments/assets/cbc8ae81-4056-40d4-80d6-d2a36e0296fc" />
 
+______________________________________________________________________________________________________________________________________________________________________________________________________________
+
+                     *DADOS ABERTOS-Infração Ambiental*
+ 
+     PERGUNTA 1
+     
+-Quantos autos de fração foram registrados em cada ano?
+
+  
+<img width="953" height="536" alt="Capturar" src="https://github.com/user-attachments/assets/c76c3184-3d6a-4e4d-96fe-82c70691080e" />
+
+
+     PERGUNTA 2
+     
+-Quais são os 10 municípios com maior número de autos?
+
+   
+<img width="999" height="548" alt="Capturar" src="https://github.com/user-attachments/assets/ea757242-558d-4c78-8eeb-3ae1895ac717" />
+
+
+    PERGUNTA 3
+    
+-Qual é a distribuição por classe de infração?
+
+
+<img width="954" height="536" alt="Capturar" src="https://github.com/user-attachments/assets/9a637505-3407-42dc-9fda-c23dffc52670" />
+
+
+    PERGUNTA 4
+
+-Quais são os municípios com maior volume para a classe FLORA?
+
+
+<img width="960" height="539" alt="Capturar" src="https://github.com/user-attachments/assets/4ed929e4-585a-4990-a23b-739a20ad61ab" />
+
+
+    PERGUNTA 5
+
+-Como evoluiu a ocorrência das principais classes de infração (FAUNA, FOGO E PESCA) ano a ano?
+
+
+<img width="957" height="534" alt="Capturar" src="https://github.com/user-attachments/assets/9abc6dc4-0026-44ff-ac33-8a41d868e7b9" />
+
+
 
 
