@@ -104,7 +104,8 @@ A)Quantas otm existem em cada cidade?
 
 B)Quantas empresas aderiram ao decreto?
 
-<img width="1127" height="627" alt="Capturar" src="https://github.com/user-attachments/assets/cbc8ae81-4056-40d4-80d6-d2a36e0296fc" />
+<img width="1098" height="610" alt="Capturar" src="https://github.com/user-attachments/assets/d65332f8-cd26-4610-9bb5-a30539befa71" />
+
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -114,8 +115,9 @@ ________________________________________________________________________________
      
 -Quantos autos de fração foram registrados em cada ano?
 
-  
-<img width="953" height="536" alt="Capturar" src="https://github.com/user-attachments/assets/c76c3184-3d6a-4e4d-96fe-82c70691080e" />
+
+<img width="1058" height="618" alt="Capturar" src="https://github.com/user-attachments/assets/dcabc934-fe5a-4c8c-aba3-e19daf1149c5" />
+
 
 
      PERGUNTA 2
@@ -123,15 +125,15 @@ ________________________________________________________________________________
 -Quais são os 10 municípios com maior número de autos?
 
    
-<img width="999" height="548" alt="Capturar" src="https://github.com/user-attachments/assets/ea757242-558d-4c78-8eeb-3ae1895ac717" />
+<img width="1083" height="599" alt="Capturar" src="https://github.com/user-attachments/assets/302c45a1-11fc-46cd-ad08-ff2d63fc5001" />
+
 
 
     PERGUNTA 3
     
 -Qual é a distribuição por classe de infração?
 
-
-<img width="954" height="536" alt="Capturar" src="https://github.com/user-attachments/assets/9a637505-3407-42dc-9fda-c23dffc52670" />
+<img width="1082" height="622" alt="Capturar" src="https://github.com/user-attachments/assets/5cc95f3e-b4de-4507-8b91-cef03c18231e" />
 
 
     PERGUNTA 4
@@ -139,15 +141,16 @@ ________________________________________________________________________________
 -Quais são os municípios com maior volume para a classe FLORA?
 
 
-<img width="960" height="539" alt="Capturar" src="https://github.com/user-attachments/assets/4ed929e4-585a-4990-a23b-739a20ad61ab" />
+<img width="1074" height="564" alt="Capturar" src="https://github.com/user-attachments/assets/8b0b6c75-ce0d-43d3-92fc-8fd13dae3e10" />
+
 
 
     PERGUNTA 5
 
 -Como evoluiu a ocorrência das principais classes de infração (FAUNA, FOGO E PESCA) ano a ano?
 
+<img width="1114" height="625" alt="Capturar" src="https://github.com/user-attachments/assets/200f0eb8-848a-409f-bcf2-04dd48cb1c34" />
 
-<img width="957" height="534" alt="Capturar" src="https://github.com/user-attachments/assets/9abc6dc4-0026-44ff-ac33-8a41d868e7b9" />
 
 
 
