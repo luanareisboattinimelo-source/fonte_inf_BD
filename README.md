@@ -41,7 +41,8 @@ R: A quantidade de declarantes passou de 27.512.126 em 2015 para 31.632.151 em 2
 
 =(Declarantes_2020-Declarantes_2015)/Declarantes_2015
 
-<img width="1053" height="490" alt="Capturar" src="https://github.com/user-attachments/assets/57cfa89a-e288-474f-a262-cc3bbbf472a0" />
+<img width="843" height="418" alt="Capturar" src="https://github.com/user-attachments/assets/8a5084d0-dcca-418a-8b33-44307058f018" />
+
 
 
 Pergunta 2
@@ -52,7 +53,8 @@ R:O gênero Masculino, com 17.870.120 declarantes.
 
        Fórmula =SOMASE(intervalo_gênero;"Masculino";intervalo_declarantes)
 
-<img width="1024" height="422" alt="Capturar" src="https://github.com/user-attachments/assets/a8cc4be8-addd-4db4-838f-83ec999205f5" />
+<img width="767" height="355" alt="Capturar" src="https://github.com/user-attachments/assets/23f10f72-025c-4ce3-8699-a8b910530ea4" />
+
 
 
 Pergunta 3
@@ -63,8 +65,7 @@ R: 25.461.913 declarantes estavam nas faixas de até 5 salários mínimos.
 
       Fórmula:=SOMA(B2:B6)
 
-<img width="1223" height="453" alt="Capturar" src="https://github.com/user-attachments/assets/f461a8b5-9cb8-4874-bde6-6589c82a70dd" />
-
+<img width="894" height="382" alt="Capturar" src="https://github.com/user-attachments/assets/65e38ba4-113c-49a6-9593-03d61f72218d" />
 
 
 Pergunta 4
@@ -75,7 +76,8 @@ R:O gênero Masculino, com 1.148.602,28 em rendimentos tributáveis.
 
        Fórmula:=SOMASE(intervalo_gênero;"Masculino";intervalo_rendimentos)
 
-<img width="1012" height="447" alt="Capturar" src="https://github.com/user-attachments/assets/07b71adb-8aeb-474e-ad97-b8627b77e778" />
+<img width="753" height="405" alt="Capturar" src="https://github.com/user-attachments/assets/9ab92d4a-9d26-4a67-bf37-85b9e646f5e5" />
+
 
 
 Pergunta 5
@@ -86,7 +88,9 @@ R:Feminino: 12.765.677 e Masculino: 17.001.602.
       
      Fórmula:=MÉDIA(B2:B7) / =MÉDIA(C2:C7)
 
-<img width="1516" height="239" alt="Capturar" src="https://github.com/user-attachments/assets/b6ae82ef-00bb-4269-ad44-3ef2567451bc" />
+<img width="1132" height="170" alt="Capturar" src="https://github.com/user-attachments/assets/e14d086d-45f4-4fbc-be5f-fdbf172c2880" />
+https://centropaulasouza-my.sharepoint.com/:x:/r/personal/luana_melo7_aluno_cps_sp_gov_br/Documents/atividade_dados_abertos_excel_LULU.xlsx?d=wf0ec6af2324047f19506d18f818f58d9&csf=1&web=1&e=JCuu0V
+
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________
 
