@@ -30,7 +30,7 @@ https://centropaulasouza-my.sharepoint.com/:x:/r/personal/luana_melo7_aluno_cps_
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                                    *Dados Abertos- Analise de Dados Abertos da Receita Federal Faixa de Renda e Gênero*
+              *Dados Abertos- Analise de Dados Abertos da Receita Federal Faixa de Renda e Gênero*
 
   Pergunta 1
 
