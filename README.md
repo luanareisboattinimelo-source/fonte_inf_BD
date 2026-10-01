@@ -1,7 +1,9 @@
 # fonte_inf_BD
                                        Apresentação
                                        
+                                       
        A primeira atividade teve como objetivo promover a apresentação dos estudantes e possibilitar o compartilhamento de experriencias, interesses e aspectos pessoais. Durante a atividade, apresentei a obra A HISTORIA DE IQBAL, destacando sua narrativa e os principais temas abordados, como a liberdade, o trabalho infantil e os direitos humanos.
+
        
 <img width="1198" height="737" alt="Screenshot_20260814-224818-display-0 png" src="https://github.com/user-attachments/assets/90791e9a-4cb4-4764-80bf-d3f9a4b0fe3a" />
 
