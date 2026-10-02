@@ -13,6 +13,12 @@
 
                                         *DADOS ABERTOS-HABILITAÇÃO MULTIMODAL*
 
+Trabalhamos com dados abertos da Habilitação Multimodal e utilizamos o Excel par organizar e analisar as informações. 
+
+A partir dos dados disponíveis, respondemos duas perguntas realizadas pela professora, utilizamos fórmulas e recursos do Excel,
+
+desenvolvendo nossa capacidade de interpretar dados e apresentar os resultados de forma clara.
+
 Pergunta 1
 
 Qual é a quantidade de empresas com habilitação multimodal em cada estado (UF)?
@@ -36,6 +42,12 @@ https://centropaulasouza-my.sharepoint.com/:x:/r/personal/luana_melo7_aluno_cps_
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
               *Dados Abertos- Analise de Dados Abertos da Receita Federal Faixa de Renda e Gênero*
+
+  Nesta atividade, cada aluno escolheu um conjunto de dados abertos para trabalhar. Eu escolhi
+
+  os dados da Receita Federal relacionados á faixa de renda e gênero. A partir dessas informações,
+
+  criamos nossas 5 perguntas e utilizamos o Excel para organizar os dados e, fazer os cálculos e analisar os resultados encontrados 
 
   Pergunta 1
 
@@ -101,8 +113,11 @@ https://centropaulasouza-my.sharepoint.com/:x:/r/personal/luana_melo7_aluno_cps_
 _______________________________________________________________________________________________________________________________________________________________________________________________________________
 
                               *BANCO DE DADOS-ANTT-Empreesas Multimodais (cargas)*
+  Tivemos nosso primeiro contato com o Power BI, utilizando dados abertos da ANTT sobre empresas multimodais. Aprendemos organizar as informações
+  
+  no Excel e exportar para o PowerBI para responder as duas perguntas da professora em sala de aula, criando   visualização para facilitar a analise e a interpretação dos resultados 
 
-      desenvolvimento no PowerBI
+    
       
 *Pergunta*
 
@@ -116,6 +131,12 @@ B)Quantas empresas aderiram ao decreto?
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
 
                      *DADOS ABERTOS-Infração Ambiental*
+
+  Nesta atividade, continuamos utilizando o Power BI, mas dessa vez trabalhei com o arquivo de Infrações Ambientais. 
+
+  Objetivo era criar 5 perguntas para analisar os dados e utilizar diferentes recursos do Power BI para encontrar as respostas e
+  
+  apresentar os resultados de forma visual e organizada.
  
      PERGUNTA 1
      
