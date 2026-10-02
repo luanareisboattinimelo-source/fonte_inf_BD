@@ -1,15 +1,11 @@
 # fonte_inf_BD
                                        Apresentação
 
- Nesta atividade, realizamos uma apresentação sobre nós mesmo, 
+ Nesta atividade, realizamos uma apresentação sobre nós mesmo,  compartilhamos um pouco sobre nossas experiências, interesses e trajetória. 
  
- compartilhamos um pouco sobre nossas experiências, interesses e trajetória. 
+ A parte que mais gostei foi contar sobre a Historia de IQBAL,  que conta a trajetória de um menino paquistanês que lutou contra
  
- A parte que mais gostei foi contar sobre a Historia de IQBAL, 
- 
- que conta a trajetória de um menino paquistanês que lutou contra
- 
- o trabalho infantil e pela liberdade de outras crianças
+ o trabalho infantil e pela liberdade de outras crianças.
        
 <img width="1198" height="737" alt="Screenshot_20260814-224818-display-0 png" src="https://github.com/user-attachments/assets/90791e9a-4cb4-4764-80bf-d3f9a4b0fe3a" />
 
