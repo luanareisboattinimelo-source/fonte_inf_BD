@@ -123,7 +123,7 @@ ________________________________________________________________________________
 
     
       
-*Pergunta*
+*PERGUNTAS*
 
 A)Quantas otm existem em cada cidade?
 
@@ -142,7 +142,7 @@ ________________________________________________________________________________
   
   apresentar os resultados de forma visual e organizada.
  
-     *PERGUNTA 1*
+   *PERGUNTA 1*
      
 -Quantos autos de fração foram registrados em cada ano?
 
@@ -151,7 +151,7 @@ ________________________________________________________________________________
 
 
 
-     *PERGUNTA 2*
+   *PERGUNTA 2*
      
 -Quais são os 10 municípios com maior número de autos?
 
@@ -160,14 +160,14 @@ ________________________________________________________________________________
 
 
 
-    *PERGUNTA 3*
+  *PERGUNTA 3*
     
 -Qual é a distribuição por classe de infração?
 
 <img width="1082" height="622" alt="Capturar" src="https://github.com/user-attachments/assets/5cc95f3e-b4de-4507-8b91-cef03c18231e" />
 
 
-    *PERGUNTA 4*
+   *PERGUNTA 4*
 
 -Quais são os municípios com maior volume para a classe FLORA?
 
@@ -176,7 +176,7 @@ ________________________________________________________________________________
 
 
 
-    *PERGUNTA 5*
+   *PERGUNTA 5*
 
 -Como evoluiu a ocorrência das principais classes de infração (FAUNA, FOGO E PESCA) ano a ano?
 
