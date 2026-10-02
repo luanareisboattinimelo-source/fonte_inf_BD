@@ -20,7 +20,7 @@ A partir dos dados disponíveis, respondemos duas perguntas realizadas pela prof
 desenvolvendo nossa capacidade de interpretar dados e apresentar os resultados de forma clara.
 
 
-*Pergunta 1*
+     *PERGUNTA 1*
 
 Qual é a quantidade de empresas com habilitação multimodal em cada estado (UF)?
 
@@ -28,7 +28,7 @@ Resultado: o estado com maior quantidade é SP, com 569 empresas.
 
       Fórmula utilizada: =CONT.SE(operador_transporte_multimodal!F:F;Gráficos!A5)
       
-*Pergunta 2*
+  *PERGUNTA 2*
 
 Quantas empresas possuem habilitação multimodal em cada estado da região Sudeste?
 
@@ -51,7 +51,7 @@ https://centropaulasouza-my.sharepoint.com/:x:/r/personal/luana_melo7_aluno_cps_
 
   criamos nossas 5 perguntas e utilizamos o Excel para organizar os dados e, fazer os cálculos e analisar os resultados encontrados 
 
-  *Pergunta 1*
+  *PERGUNTA 1*
 
 Como evoluiu a quantidade de declarantes entre 2015 e 2020?
 
@@ -65,7 +65,7 @@ R: A quantidade de declarantes passou de 27.512.126 em 2015 para 31.632.151 em 2
 
 
 
-*Pergunta 2*
+  *PERGUNTA 2*
 
 Em 2020, qual gênero teve a maior quantidade de declarantes?
 
@@ -77,7 +77,7 @@ R:O gênero Masculino, com 17.870.120 declarantes.
 
 
 
-*Pergunta 3*
+ *PERGUNTA 3*
 
 Em 2020, quantos declarantes estavam nas faixas de até 5 salários mínimos?
 
@@ -88,7 +88,7 @@ R: 25.461.913 declarantes estavam nas faixas de até 5 salários mínimos.
 <img width="894" height="382" alt="Capturar" src="https://github.com/user-attachments/assets/65e38ba4-113c-49a6-9593-03d61f72218d" />
 
 
-*Pergunta 4*
+  *PERGUNTA 4*
 
 Em 2020, qual gênero apresentou o maior total de rendimentos tributáveis?
 
@@ -100,7 +100,7 @@ R:O gênero Masculino, com 1.148.602,28 em rendimentos tributáveis.
 
 
 
-*Pergunta 5*
+   *PERGUNTA 5*
 
 Entre 2015 e 2020, qual foi a média de declarantes por gênero?
 
