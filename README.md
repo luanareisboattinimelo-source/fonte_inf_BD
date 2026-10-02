@@ -20,6 +20,8 @@ A partir dos dados disponíveis, respondemos duas perguntas realizadas pela prof
 desenvolvendo nossa capacidade de interpretar dados e apresentar os resultados de forma clara.
 
 
+
+
   *PERGUNTA 1*
 
 Qual é a quantidade de empresas com habilitação multimodal em cada estado (UF)?
