@@ -13,7 +13,7 @@
 
                                         *DADOS ABERTOS-HABILITAÇÃO MULTIMODAL*
 
-Trabalhamos com dados abertos da Habilitação Multimodal e utilizamos o Excel par organizar e analisar as informações. 
+Trabalhamos com dados abertos da Habilitação Multimodal e utilizamos o Excel para organizar e analisar as informações. 
 
 A partir dos dados disponíveis, respondemos duas perguntas realizadas pela professora, utilizamos fórmulas e recursos do Excel,
 
