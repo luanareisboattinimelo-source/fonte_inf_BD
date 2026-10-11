@@ -182,6 +182,20 @@ ________________________________________________________________________________
 
 <img width="1114" height="625" alt="Capturar" src="https://github.com/user-attachments/assets/200f0eb8-848a-409f-bcf2-04dd48cb1c34" />
 
+______________________________________________________________________________________________________________________________________________________________________________________________
+
+                       *DADOS ABERTOS- Infração Ambiental tabela dimensional*
+
+
+Foi desenvolvido um dashboard no Power BI utilizando dados de Autos de Infração Ambiental. 
+Para complementar a análise, foi criada uma tabela dimensional com imagens representativas das classes de infração, 
+relacionada à tabela principal por meio de um relacionamento do tipo 1:N (um para muitos).
+Também foram criadas visualizações interativas que permitem analisar os dados e visualizar 
+as imagens correspondentes a cada categoria de infração.
+
+  <img width="1135" height="638" alt="Capturar" src="https://github.com/user-attachments/assets/6086cee3-ad20-4356-9f5d-256818d38f09" />
+
+                  
 
 
 
