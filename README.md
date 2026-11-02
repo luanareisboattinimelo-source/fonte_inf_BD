@@ -208,6 +208,26 @@ as imagens correspondentes a cada categoria de infração.
 
   ______________________________________________________________________________________________________________________________________________________________________________________________
 
+                      *Análise Mundial da Expectativa de Vida*
+
+Este projeto apresenta uma análise da expectativa de vida em diferentes países, utilizando dados do Our World in Data e a ferramenta Power BI.
+
+Foram desenvolvidos três gráficos para:
+
+Analisar a evolução da expectativa de vida ao longo dos anos.
+
+Identificar os 10 países com maior expectativa de vida.
+
+Identificar os 10 países com menor expectativa de vida.
+
+<img width="1141" height="630" alt="Capturar" src="https://github.com/user-attachments/assets/e02c5c4c-23c8-409f-af0c-badc175e9329" />
+
+<img width="1140" height="634" alt="Capturar" src="https://github.com/user-attachments/assets/52192ec4-d56f-4a61-a828-90ee6a3ec529" />
+
+<img width="1139" height="633" alt="Capturar" src="https://github.com/user-attachments/assets/8bb0962f-21e8-41fe-bb5c-18120b9bc723" />
+
+______________________________________________________________________________________________________________________________________________________________________________________________
+
 
 
 
