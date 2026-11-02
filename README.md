@@ -195,7 +195,21 @@ as imagens correspondentes a cada categoria de infração.
 
   <img width="1135" height="638" alt="Capturar" src="https://github.com/user-attachments/assets/6086cee3-ad20-4356-9f5d-256818d38f09" />
 
-                  
+  ______________________________________________________________________________________________________________________________________________________________________________________________
+
+                        *
+
+  <img width="1309" height="519" alt="Capturar" src="https://github.com/user-attachments/assets/71eaef08-5e85-42d2-9e45-61eb6d7d84da" />
+
+
+<img width="675" height="617" alt="Capturar" src="https://github.com/user-attachments/assets/bf616104-3e45-476e-8fc0-7b88829bee0c" />
+
+<img width="368" height="79" alt="Capturar" src="https://github.com/user-attachments/assets/d078cd2c-825b-469e-bd9d-cf011d8e21aa" />
+
+  ______________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
 
 
 
