@@ -199,6 +199,11 @@ as imagens correspondentes a cada categoria de infração.
 
                         *COLETA DE DADOS SORVETE-Regressão linear, uso de IA e visualizações*
 
+  Os modelos de regressão linear desenvolvidos no Excel e no Google Colab apresentaram resultados equivalentes.
+  Ambos demonstraram uma relação positiva entre a temperatura e a receita (revenue) das vendas de sorvete.
+  Isso indica que, conforme a temperatura aumenta, a receita tende a aumentar. Como as duas ferramentas
+  utilizaram os mesmos dados, os resultados da análise foram consistentes.
+
   <img width="1309" height="519" alt="Capturar" src="https://github.com/user-attachments/assets/71eaef08-5e85-42d2-9e45-61eb6d7d84da" />
 
 
