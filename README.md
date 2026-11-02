@@ -197,7 +197,7 @@ as imagens correspondentes a cada categoria de infração.
 
   ______________________________________________________________________________________________________________________________________________________________________________________________
 
-                        *
+                        *COLETA DE DADOS SORVETE-Regressão linear, uso de IA e visualizações*
 
   <img width="1309" height="519" alt="Capturar" src="https://github.com/user-attachments/assets/71eaef08-5e85-42d2-9e45-61eb6d7d84da" />
 
@@ -208,7 +208,7 @@ as imagens correspondentes a cada categoria de infração.
 
   ______________________________________________________________________________________________________________________________________________________________________________________________
 
-                      *Análise Mundial da Expectativa de Vida*
+                      *COLETA DE DADOS-Análise Mundial da Expectativa de Vida*
 
 Este projeto apresenta uma análise da expectativa de vida em diferentes países, utilizando dados do Our World in Data e a ferramenta Power BI.
 
@@ -228,7 +228,31 @@ Identificar os 10 países com menor expectativa de vida.
 
 ______________________________________________________________________________________________________________________________________________________________________________________________
 
+                *COLETA DE DADOS NOTAS-Regressão linear, uso de IA e visualizações*
 
+  Nesta atividade, foi utilizada a ferramenta Excel para analisar a relação entre as horas de estudo e as notas dos estudantes.
+  Foi criado um gráfico de dispersão com uma linha de tendência linear, apresentando a equação da reta e
+  o coeficiente de determinação (R²), permitindo avaliar como o tempo dedicado aos estudos está relacionado
+  ao desempenho nas provas.
+
+<img width="1203" height="486" alt="Capturar" src="https://github.com/user-attachments/assets/36a51315-2af3-47c4-af77-91c57d562713" />
+
+<img width="775" height="627" alt="Capturar" src="https://github.com/user-attachments/assets/dd7d71b9-be48-45d5-b58a-0b01f040c43b" />
+
+<img width="316" height="97" alt="Capturar" src="https://github.com/user-attachments/assets/126ce987-8442-4f0b-990e-6d9e6739f930" />
+
+_PERGUNTA 1_
+
+Usando regressão linear, responder:  mais horas de estudo estão associadas a notas maiores?
+
+   R: Sim, A análise mostrou que existe uma relação positiva entre as horas de estudo e as notas dos estudantes. Quanto maior o tempo dedicado aos estudos, maior tende a ser a nota obtida. O coeficiente R² de 0,6033 indica que aproximadamente 60,33% da variação das notas é explicada pelo modelo de regressão linear.
+
+Comparar os dois modelos de regressão linear e responder: eles são iguais?
+   
+   R:Os resultados obtidos no Excel e no Google Colab foram iguais, apresentando a mesma equação de regressão linear e o mesmo coeficiente de determinação (R²). Isso demonstra que as duas ferramentas chegaram ao mesmo resultado ao analisar os dados, confirmando a consistência da análise.
+
+
+  
 
 
 
