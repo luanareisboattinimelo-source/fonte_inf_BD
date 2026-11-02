@@ -246,7 +246,8 @@ _PERGUNTA 1_
 Usando regressão linear, responder:  mais horas de estudo estão associadas a notas maiores?
 
    R: Sim, A análise mostrou que existe uma relação positiva entre as horas de estudo e as notas dos estudantes. Quanto maior o tempo dedicado aos estudos, maior tende a ser a nota obtida. O coeficiente R² de 0,6033 indica que aproximadamente 60,33% da variação das notas é explicada pelo modelo de regressão linear.
-
+   
+_PERGUNTA 2_
 Comparar os dois modelos de regressão linear e responder: eles são iguais?
    
    R:Os resultados obtidos no Excel e no Google Colab foram iguais, apresentando a mesma equação de regressão linear e o mesmo coeficiente de determinação (R²). Isso demonstra que as duas ferramentas chegaram ao mesmo resultado ao analisar os dados, confirmando a consistência da análise.
