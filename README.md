@@ -180,7 +180,19 @@ ________________________________________________________________________________
 
 -Como evoluiu a ocorrência das principais classes de infração (FAUNA, FOGO E PESCA) ano a ano?
 
-<img width="1114" height="625" alt="Capturar" src="https://github.com/user-attachments/assets/200f0eb8-848a-409f-bcf2-04dd48cb1c34" />
+<img width="1114" height="625" alt="Capturar" src="https://github.com/user-attachments/assets/200f0eb8-848a-409f-bcf2-04dd48cb1c34" /> 
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________
+
+                        *ANTT- CARGAS- BANDEIRAS
+
+A atividade consistiu na criação de uma tabela dinâmica no Power BI, utilizando as informações das empresas multimodais cadastradas na ANTT.
+Foram inseridas as bandeiras dos estados brasileiros, permitindo relacionar cada unidade federativa à sua respectiva bandeira 
+e apresentar os dados de forma mais visual, organizada e interativa.
+
+<img width="1531" height="848" alt="Captura de tela 2026-11-06 213202" src="https://github.com/user-attachments/assets/e3357c75-698c-4e48-855a-4d80e61b36b1" />
+
 
 ______________________________________________________________________________________________________________________________________________________________________________________________
 
