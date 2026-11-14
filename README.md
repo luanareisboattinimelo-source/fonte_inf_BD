@@ -268,29 +268,34 @@ _PERGUNTA 2_
 Comparar os dois modelos de regressão linear e responder: eles são iguais?
    
    R:Os resultados obtidos no Excel e no Google Colab foram iguais, apresentando a mesma equação de regressão linear e o mesmo coeficiente de determinação (R²). Isso demonstra que as duas ferramentas chegaram ao mesmo resultado ao analisar os dados, confirmando a consistência da análise.
+   
+______________________________________________________________________________________________________________________________________________________________________________________________
+
+                             QUESTÃO 2- criar 3 Visualizações 
+
+<img width="1319" height="814" alt="Captura de tela 2026-11-13 222157" src="https://github.com/user-attachments/assets/1cb7acb9-7549-478b-96db-2b29cab7e00b" />
 
 ______________________________________________________________________________________________________________________________________________________________________________________________
-questão da prova 4 Nupcialidade
+
+                             QUESTÃO 2
 
 <img width="1631" height="685" alt="Captura de tela 2026-11-13 211904" src="https://github.com/user-attachments/assets/1f89e868-80df-44fb-8c15-25624c9eb69f" />
 
 <img width="743" height="595" alt="Captura de tela 2026-11-13 212031" src="https://github.com/user-attachments/assets/5bf53dba-334a-4b7a-90e3-4adac9d8e33d" />
 
 ______________________________________________________________________________________________________________________________________________________________________________________________
-QUESTÃO DA PROVA 3
+
+                            QUESTÃO   3
   
   FORMULA: =SUMPRODUCT(--(MINÚSCULA(ARRUMAR(E2:E14896))="são josé dos campos"))
   <img width="460" height="342" alt="Captura de tela 2026-11-13 213318" src="https://github.com/user-attachments/assets/d1244d2f-7727-4eb7-af98-c5a9c930cc26" />
 
-______________________________________________________________________________________________________________________________________________________________________________________________
-qUESTÃO DA PROVA 5
+__________________________________________________________________________________________________________________________________________________________________________________________
+
+                            QUESTÃO 5
 
 <img width="1097" height="597" alt="Captura de tela 2026-11-13 213956" src="https://github.com/user-attachments/assets/e5da4fbb-4590-4869-9466-74de95c5d74a" />
 
 ______________________________________________________________________________________________________________________________________________________________________________________________
-
-questão 2
-
-<img width="1297" height="713" alt="Captura de tela 2026-11-13 215350" src="https://github.com/user-attachments/assets/36ec8258-e8e6-4191-98da-8916e538fdbf" />
 
 
